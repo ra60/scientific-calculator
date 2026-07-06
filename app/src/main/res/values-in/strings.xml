@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator Ilmiah</string>
+
+    <!-- Main Screen -->
+    <string name="basic_mode">Dasar</string>
+    <string name="scientific_mode">Ilmiah</string>
+    <string name="settings">Pengaturan</string>
+    <string name="error">Galat</string>
+
+    <!-- Calculator Buttons -->
+    <string name="btn_clear">AC</string>
+    <string name="btn_backspace">⌫</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_decimal">.</string>
+    <string name="btn_plus_minus">±</string>
+
+    <!-- Scientific Buttons -->
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_log">log</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_sqrt">√</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_power">xⁿ</string>
+    <string name="btn_pi">π</string>
+    <string name="btn_e">e</string>
+    <string name="btn_factorial">n!</string>
+    <string name="btn_open_paren">(</string>
+    <string name="btn_close_paren">)</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="theme_setting">Tema</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_system">Sistem</string>
+    <string name="english">English</string>
+    <string name="indonesian">Bahasa Indonesia</string>
+</resources>
